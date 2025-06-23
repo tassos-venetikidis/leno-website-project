@@ -610,6 +610,14 @@ img {
   justify-content: center;
 }
 
+/* INNER HEADER */
+
+.inner-header {
+  background: #000 url("../images/header-background.jpg") center center/cover
+    no-repeat;
+  padding: 10rem 2rem 6rem;
+}
+
 /* MEDIA QUERIES */
 
 /* 992px MEDIA QUERY */
